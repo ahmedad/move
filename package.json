@@ -1,5 +1,7 @@
 {
   "name": "mov",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
 }
